@@ -29,6 +29,8 @@
 <button>click me to get a virus pleas</button>
 </a></right>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" int=virus>
+
 
 
 
