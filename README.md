@@ -16,6 +16,15 @@
     <img src="https://picsum.photos/200" width="200" alt="Test Picture">
 </center>
 
+<a href="https://www.google.com">
+    <button>Go to Google</button>
+</a>
+<center>
+<a href="https://www.google.com" >
+<buton>click me</buton>
+</a>
+</center>
+
 
 
 
