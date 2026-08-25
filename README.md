@@ -9,7 +9,8 @@
 
 <a href ="https://www.google.com" >got to google</a>
 
-<img src="https://www.shutterstock.com/discover/free-nature-images" >
+<img src="https://www.shutterstock.com/discover/free-nature-images" width ="100" >
+
 
 
 
