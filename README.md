@@ -11,6 +11,11 @@
 
 <img src="https://www.shutterstock.com/discover/free-nature-images" width ="100" >
 
+<center>
+    <h1>Testing Image</h1>
+    <img src="https://picsum.photos/200" width="200" alt="Test Picture">
+</center>
+
 
 
 
