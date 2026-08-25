@@ -21,9 +21,11 @@
 </a>
 <center>
 <a href="https://www.google.com">
+
 <left>
-<h1 style=color : red ;>pleas this is a virus click the buton</h1>
+<h1 style="color : red ;">pleas this is a virus click the buton</h1>
 </left>
+
 <right>
 <a href="https://www.google.com">
 <button>click me to get a virus pleas</button>
