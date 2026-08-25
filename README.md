@@ -20,9 +20,7 @@
     <button>Go to Google</button>
 </a>
 <center>
-<a href="https://www.google.com" >
-   <buton>click me</buton>
-</a>
+<a href="https://www.google.com" ><buton>click me</buton></a>
 </center>
 
 
