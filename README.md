@@ -1,23 +1,4 @@
-# my-first-website-
-<h1 style="color: red;">this is my first website</h1>
-<hr>
-<p style="color: green;">this is my first website this is just a test</p>
-<button>click me</button>
-<button align = "right" >lolo</button>
-<button style="position: relative; top: 10px; left: 20px;">click me</button>
-<h1>testing buton</h1>h1
-<p>good</p>
-<p align = "right"> 
-      <button>lololo</button>
-</p>
 <center>
-<h1 style = "color : blue ;">relly now i am putting my hmll to the test</h1>
-      <br>
+<h1 style = "color : green ;">welcome to my first website inderstanding htms</h1>
 </center>
-<center>
-    <h1 style="color: blue;">relly now i am putting my hmll to the test</h1>
-    <br>
-</center>
-
-<p style = "color : blue ;">relly for relle now ok for some reson the plasent is not working in the center </p>
 
