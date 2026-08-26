@@ -101,9 +101,7 @@
 <td>the resons</td>
 
 </table>
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
+
 
 
 
@@ -121,8 +119,7 @@
 <a href="https://bendyt360.github.io/my-first-website-/" target="_blank">
 <button>google</button>
 </a></center>
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
+
 
 <h3>idk list</h3>
 <center>
@@ -136,11 +133,11 @@
 <li>yest test</li>
 </ul>
 </center>
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
+
+<h3>iput fahhh</h3>
+<input type="text" placeholder="hello" >
+<input type="checkbox">hhhhhh
+<input type="text" value="send to me">
 
 <div style="margin-boutom : 100px ;"></div>
 
