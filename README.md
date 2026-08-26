@@ -104,6 +104,22 @@
     </tr>
 </table>
 
+<table border="1">
+<tr>
+
+<td>the resons</td>
+<td>the solution</td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+
 
 
 
