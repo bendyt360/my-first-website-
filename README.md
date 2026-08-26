@@ -49,6 +49,12 @@
     <li>Adding images</li>
 </ul>
 
+<ol>
+    <li>Open Thonny or GitHub</li>
+    <li>Write your code</li>
+    <li>Save and test</li>
+</ol>
+
 
 
 
