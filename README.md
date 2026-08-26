@@ -74,6 +74,16 @@
 <input type="checkbox"> HTML <br>
 <input type="checkbox"> CSS
 
+<!-- 1. HTML creates the button -->
+<button onclick="sayHello()">Click Me!</button>
+
+<!-- 2. JavaScript provides the function/action -->
+<script>
+    function sayHello() {
+        alert("Hello! Your code is working!");
+    }
+</script>
+
 
 
 
