@@ -1,7 +1,7 @@
 <!-- Navigation Links at the top -->
 <center>
     <a href="index.html">Home</a> | 
-    <a href="about.html">About Me</a>
+    <a href="firas.html">About Me</a>
 </center>
 
 <hr>
