@@ -38,6 +38,17 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="50%" height="50" alt="virus">
 </center>
 
+<center>
+    <h1>My Coding Skills</h1>
+</center>
+
+<h3>Things I am learning:</h3>
+<ul>
+    <li>HTML tags</li>
+    <li>Adding links</li>
+    <li>Adding images</li>
+</ul>
+
 
 
 
