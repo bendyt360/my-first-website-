@@ -66,6 +66,9 @@
     <button>click me or nothing </button>
 </a>
 
+<p>Enter your name:</p>
+<input type="text" placeholder="Type name here...">
+
 
 
 
