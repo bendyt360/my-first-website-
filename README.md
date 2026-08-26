@@ -83,26 +83,10 @@
         alert("Hello! Your code is working!");
     }
 </script>
+<br><br><br><br><br><br>
 
-<table border="1">
-    <!-- Row 1: The Titles -->
-    <tr>
-        <th>Language</th>
-        <th>What it does</th>
-    </tr>
 
-    <!-- Row 2: First item -->
-    <tr>
-        <td>HTML</td>
-        <td>Structure</td>
-    </tr>
 
-    <!-- Row 3: Second item -->
-    <tr>
-        <td>Python</td>
-        <td>Logic</td>
-    </tr>
-</table>
 
 <table border="1">
 <tr>
@@ -117,6 +101,8 @@
 <td>the resons</td>
 
 </table>
+<br><br><br><br><br><br>
+
 
 
 <h1>test the table fore eroor h</h1>
