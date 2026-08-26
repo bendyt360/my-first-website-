@@ -108,14 +108,18 @@
 <h1>test the table fore eroor h</h1>
 <br><br><br><br><br><br>
 <p>© 2026 My Webpage - Thanks for visiting!</p>
+<br><br><br><br><br><br>
 
 <h1 style="color : green ;">evryting i lerned</h1>
+<br><br><br><br><br><br>
 
 <h3>link</h3>
 <center>
 <a href="" target="_blank">
 <button>google</button>
 </a></center>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h3>idk list</h3>
 <center>
@@ -129,6 +133,11 @@
 <li>yest test</li>
 </ul>
 </center>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 
