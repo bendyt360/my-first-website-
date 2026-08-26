@@ -1,3 +1,13 @@
+<!-- Navigation Links at the top -->
+<center>
+    <a href="index.html">Home</a> | 
+    <a href="about.html">About Me</a>
+</center>
+
+<hr>
+
+<h1>Welcome to My Home Page!</h1>
+<p>This is where my main content lives.</p>
 <center>
 <h1 style = "color : green ;">welcome to my first website inderstanding htms</h1>
 </center>
