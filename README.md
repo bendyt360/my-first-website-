@@ -84,6 +84,25 @@
     }
 </script>
 
+<table border="1">
+    <!-- Row 1: The Titles -->
+    <tr>
+        <th>Language</th>
+        <th>What it does</th>
+    </tr>
+
+    <!-- Row 2: First item -->
+    <tr>
+        <td>HTML</td>
+        <td>Structure</td>
+    </tr>
+
+    <!-- Row 3: Second item -->
+    <tr>
+        <td>Python</td>
+        <td>Logic</td>
+    </tr>
+</table>
 
 
 
