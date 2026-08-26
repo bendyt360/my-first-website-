@@ -69,6 +69,11 @@
 <p>Enter your name:</p>
 <input type="text" placeholder="Type name here...">
 
+<p>Choose your favorite languages:</p>
+<input type="checkbox"> Python <br>
+<input type="checkbox"> HTML <br>
+<input type="checkbox"> CSS
+
 
 
 
