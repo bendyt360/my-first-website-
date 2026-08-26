@@ -34,7 +34,7 @@
 <button>click me to get a virus pleas</button>
 </a></right>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" wigth="50%" hoght="50" alt=virus>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width="50%" hieght="50" alt="virus">
 
 
 
